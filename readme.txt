@@ -12,4 +12,4 @@
 - 💬 **Ready-to-use contact form** structure  
 - use trantiton in css
 use toogle
-use trantitions
+use trantitions 
