@@ -10,3 +10,6 @@
 - 🖼️ **Image gallery** with animated hover zoom  
 - 🧠 **Easy to customize** — edit text, colors, and images  
 - 💬 **Ready-to-use contact form** structure  
+- use trantiton in css
+use toogle
+use trantitions
